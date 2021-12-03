@@ -1,3 +1,5 @@
 # vRP_discord
 
-Daca ai nevoie de ajutor, te asteptam pe: discord.gg/5mhelp
+cl_discord.lua && sv_discord.lua trebuie puse in:
+
+vRP/scripts_cl si vRP/scripts_sv
